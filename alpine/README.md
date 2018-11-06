@@ -1,0 +1,1 @@
+基于alpine镜像做的一个linux镜像，在官方包的基础上安装了openssh、net-tools、bash、curl、wget这些常用的linux命令
